@@ -13,3 +13,7 @@ awesome front-end libs collections
   - [chalk](https://www.npmjs.com/package/chalk)
 ## webpack-dev-server钩子
   - [webpack-shell-plugin-next](https://www.npmjs.com/package/webpack-shell-plugin-next)
+## 模式匹配
+  - [globby](https://www.npmjs.com/package/globby)
+## 获取lerna包
+  - [lerna-get-packages](https://www.npmjs.com/package/lerna-get-packages)
