@@ -19,3 +19,7 @@ awesome front-end libs collections
   - [lerna-get-packages](https://www.npmjs.com/package/lerna-get-packages)
 ## 文件读写
   - [file-save](https://www.npmjs.com/package/file-save)
+## jsdoc转md
+  - [jsdoc-to-markdown](https://www.npmjs.com/package/jsdoc-to-markdown)
+## 模板引擎
+  - [json-templater](https://www.npmjs.com/package/json-templater)
