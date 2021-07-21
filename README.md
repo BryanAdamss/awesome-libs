@@ -17,3 +17,5 @@ awesome front-end libs collections
   - [globby](https://www.npmjs.com/package/globby)
 ## 获取lerna包
   - [lerna-get-packages](https://www.npmjs.com/package/lerna-get-packages)
+## 文件读写
+  - [file-save](https://www.npmjs.com/package/file-save)
