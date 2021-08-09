@@ -23,3 +23,5 @@ awesome front-end libs collections
   - [jsdoc-to-markdown](https://www.npmjs.com/package/jsdoc-to-markdown)
 ## 模板引擎
   - [json-templater](https://www.npmjs.com/package/json-templater)
+## 发布订阅
+  - [eventemitter3](https://www.npmjs.com/package/eventemitter3)
