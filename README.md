@@ -25,3 +25,5 @@ awesome front-end libs collections
   - [json-templater](https://www.npmjs.com/package/json-templater)
 ## 发布订阅
   - [eventemitter3](https://www.npmjs.com/package/eventemitter3)
+## 删除文件
+  - [rimraf](https://www.npmjs.com/package/rimraf)
