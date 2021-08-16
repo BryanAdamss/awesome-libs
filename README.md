@@ -27,3 +27,5 @@ awesome front-end libs collections
   - [eventemitter3](https://www.npmjs.com/package/eventemitter3)
 ## 删除文件
   - [rimraf](https://www.npmjs.com/package/rimraf)
+## 文件拷贝
+  - [copy](https://www.npmjs.com/package/copy)
