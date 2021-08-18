@@ -29,3 +29,5 @@ awesome front-end libs collections
   - [rimraf](https://www.npmjs.com/package/rimraf)
 ## 文件拷贝
   - [copy](https://www.npmjs.com/package/copy)
+## 命名转换
+  - [change-case](https://www.npmjs.com/package/change-case)
