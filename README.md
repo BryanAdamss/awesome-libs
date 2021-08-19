@@ -1,5 +1,6 @@
 # awesome-libs
-awesome front-end libs collections
+awesome front-end libs collections,updating!
+
 
 
 ## 同步运行多个script
