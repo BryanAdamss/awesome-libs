@@ -1,5 +1,5 @@
 # awesome-libs
-awesome front-end libs collections,updating!
+awesome front-end libs collections,continuously updating,welcome to star.
 
 
 
