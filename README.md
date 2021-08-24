@@ -32,3 +32,5 @@ awesome front-end libs collections,continuously updating,welcome to star.
   - [copy](https://www.npmjs.com/package/copy)
 ## 命名转换
   - [change-case](https://www.npmjs.com/package/change-case)
+## 配置读取
+  - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig)
