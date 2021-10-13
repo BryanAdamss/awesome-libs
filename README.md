@@ -1,8 +1,9 @@
 # awesome-libs
 awesome front-end libs collections,continuously updating,welcome to star.
 
-
-
+## 命令行参数解析
+- [yargs](https://www.npmjs.com/package/yargs)
+- [minimist](https://www.npmjs.com/package/minimist)
 ## 同步运行多个script
   - [concurrently](https://www.npmjs.com/package/concurrently)
   - [npm-run-all](https://www.npmjs.com/package/npm-run-all)
