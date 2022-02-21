@@ -95,3 +95,9 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ### UI Framwork
 - TODO
+
+## Other
+
+### Monorepo
+- [rushstack](https://github.com/microsoft/rushstack)
+  - 系统、全面、规范的monorepo全套方案，微软背书
