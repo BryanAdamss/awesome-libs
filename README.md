@@ -4,6 +4,12 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Node
 
+### CLI库
+- [clipanion](https://github.com/arcanis/clipanion)
+  - TS + 面向对象 + 模板模式
+- [Commander.js](https://github.com/tj/commander.js)
+  - 函数式
+
 ### 命令行参数解析
 
 - [yargs](https://www.npmjs.com/package/yargs)
