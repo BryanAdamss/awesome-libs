@@ -86,3 +86,12 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 - [inquirer](https://www.npmjs.com/package/inquirer)
 - [enquirer](https://www.npmjs.com/package/nquirer)
+
+### 性能监控
+- [easy-monitor](https://github.com/hyj1991/easy-monitor)
+
+
+## Browser
+
+### UI Framwork
+- TODO
