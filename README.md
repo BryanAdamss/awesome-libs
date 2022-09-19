@@ -4,6 +4,10 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Node
 
+### 文件生成
+- [node-plop](https://github.com/plopjs/plop#readme)
+  - 文件生成工具，可以通过配置让团队生成统一风格的新文件  
+  
 ### CLI库
 - [clipanion](https://github.com/arcanis/clipanion)
   - TS + 面向对象 + 模板模式
