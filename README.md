@@ -77,6 +77,7 @@ awesome front-end libs collections,continuously updating,welcome to star.
 ### 发布订阅
 
 - [eventemitter3](https://www.npmjs.com/package/eventemitter3)
+- [tiny-emitter](https://www.npmjs.com/package/tiny-emitter)
 
 ### 删除文件
 
