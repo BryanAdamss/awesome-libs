@@ -21,6 +21,8 @@ awesome front-end libs collections,continuously updating,welcome to star.
   - TS + 面向对象 + 模板模式
 - [Commander.js](https://github.com/tj/commander.js)
   - 函数式，完整的 node.js 命令行解决方案。
+- [figlet](https://www.npmjs.com/package/figlet)
+  - `cli banner`生成器
 
 ### 命令行参数解析
 
