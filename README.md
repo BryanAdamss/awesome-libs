@@ -4,6 +4,10 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Node
 
+### NPM私服
+- [verdaccio](https://github.com/verdaccio/verdaccio)
+  - 可独立部署的npm私服解决方案
+
 ### 统一斜杠
 - [slash](https://www.npmjs.com/package/slash)
   - 将 Windows 反斜杠路径转换为斜杠路径：`foo\\bar ➔ foo/bar`
