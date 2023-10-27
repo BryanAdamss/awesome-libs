@@ -112,6 +112,12 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Browser
 
+### 代码高亮
+- [prism](https://github.com/PrismJS/prism)
+
+### 交互式slide
+- [slidev](https://github.com/slidevjs/slidev)
+
 ### UI Framwork
 - TODO
 
