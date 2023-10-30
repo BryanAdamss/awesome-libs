@@ -6,6 +6,7 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Node日志
 - [winston](https://github.com/winstonjs/winston)
+  - [为什么 Node 要用 Winston 打印日志？](https://juejin.cn/post/7294638699417190410)  
 
 ### NPM私服
 - [verdaccio](https://github.com/verdaccio/verdaccio)
