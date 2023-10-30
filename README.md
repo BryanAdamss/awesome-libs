@@ -4,6 +4,9 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Node
 
+## Node日志
+- [winston](https://github.com/winstonjs/winston)
+
 ### NPM私服
 - [verdaccio](https://github.com/verdaccio/verdaccio)
   - 可独立部署的npm私服解决方案
