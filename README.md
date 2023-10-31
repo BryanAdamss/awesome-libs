@@ -127,6 +127,11 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Other
 
+### html解析
+- [DOMParser](https://developer.mozilla.org/zh-CN/docs/Web/API/DOMParser)
+  - 浏览器原生支持
+- [parse5](https://www.npmjs.com/package/parse5)
+
 ### Monorepo
 - [rushstack](https://github.com/microsoft/rushstack)
   - 系统、全面、规范的monorepo全套方案，微软背书
