@@ -113,7 +113,6 @@ awesome front-end libs collections,continuously updating,welcome to star.
 ### 性能监控
 - [easy-monitor](https://github.com/hyj1991/easy-monitor)
 
-
 ## Browser
 
 ### 代码高亮
@@ -127,10 +126,12 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Other
 
-### html解析
-- [DOMParser](https://developer.mozilla.org/zh-CN/docs/Web/API/DOMParser)
+### html序列化和反序列化
+- [DOMParser](https://developer.mozilla.org/zh-CN/docs/Web/API/DOMParser) 和 [XMLSerializer](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLSerializer)
   - 浏览器原生支持
+  - [盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/)
 - [parse5](https://www.npmjs.com/package/parse5)
+
 
 ### Monorepo
 - [rushstack](https://github.com/microsoft/rushstack)
