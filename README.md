@@ -126,6 +126,10 @@ awesome front-end libs collections,continuously updating,welcome to star.
 
 ## Other
 
+### 富文本编辑器
+- [slatejs](https://www.slatejs.org/)
+  - 轻量级、灵活的富文本编辑器**框架**，需要二次定制
+
 ### html序列化和反序列化
 - [DOMParser](https://developer.mozilla.org/zh-CN/docs/Web/API/DOMParser) 和 [XMLSerializer](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLSerializer)
   - 浏览器原生支持
