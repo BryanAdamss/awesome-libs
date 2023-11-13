@@ -136,6 +136,9 @@ awesome front-end libs collections,continuously updating,welcome to star.
   - [盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/)
 - [parse5](https://www.npmjs.com/package/parse5)
 
+### 模板引擎
+- [art-template](https://github.com/aui/art-template)
+
 
 ### Monorepo
 - [rushstack](https://github.com/microsoft/rushstack)
