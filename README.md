@@ -5,6 +5,8 @@
 
 | 库名                                                                                 | 描述                                                                              | 标签                                |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------- |
+| [release-it](https://www.npmjs.com/package/release-it)                               | 语义化版本发布工具                                                   | `version`/`publish`                 |
+| [bumpp](https://www.npmjs.com/package/bumpp)                                         | `antfu`改造的语义化版本管理工具                                                   | `version`                 |
 | [winston](https://github.com/winstonjs/winston)                                      | [为什么 Node 要用 Winston 打印日志？](https://juejin.cn/post/7294638699417190410) | `log`/`日志`/`node`                 |
 | [verdaccio](https://github.com/verdaccio/verdaccio)                                  | 可独立部署的 `npm` 私服解决方案                                                   | `npm`/`私服`                        |
 | [slash](https://www.npmjs.com/package/slash)                                         | 将 `Windows` 反斜杠路径转换为斜杠路径：`foo\\bar ➔ foo/bar`                       | `斜杠转换`/`node`                   |
