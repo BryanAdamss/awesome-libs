@@ -37,7 +37,7 @@
 | [json-templater](https://www.npmjs.com/package/json-templater)                       | `json` 模板引擎                                                                   | `template`/`node`                   |
 | [art-template](https://github.com/aui/art-template)                                  | 模板引擎                                                                          | `template`/`node`                   |
 | [eventemitter3](https://www.npmjs.com/package/eventemitter3)                         | 发布订阅库                                                                        | `event`/`pub_sub`/`node`            |
-| [tiny-emitter](https://www.npmjs.com/package/tiny-emitter)                           | 发布订阅库                                                                        | `event`/`pub_sub`/`node`            |
+| [tiny-emitter](https://www.npmjs.com/package/tiny-emitter)                           | 轻量的发布订阅库                                                                        | `event`/`pub_sub`/`node`            |
 | [cosmiconfig](https://github.com/davidtheclark/cosmiconfig)                          | 一键读取常见的配置文件格式(`.config.js、.rc`)                                     | `config`/`node`                     |
 | [inquirer](https://www.npmjs.com/package/inquirer)                                   | 交互式命令行                                                                      | `quirer`/`cli`/`node`               |
 | [enquirer](https://www.npmjs.com/package/enquirer)                                   | 交互式命令行                                                                      | `quirer`/`cli`/`node`               |
