@@ -5,6 +5,7 @@
 
 | 库名                                                                                 | 描述                                                                              | 标签                                |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------- |
+|[shelljs](https://www.npmjs.com/package/shelljs)|一个 Unix shell 命令的包装器，以类似于 Shell 脚本的方式执行命令。它提供了简单的接口来执行命令、获取输出和处理错误。|`cli`/`shell`|
 |[progress](https://www.npmjs.com/package/progress)|cli中展示进度条|`cli`/`progress`|
 |[cli-table](https://github.com/Automattic/cli-table)|cli中展示漂亮的表格|`cli`/`table`|
 |[ora](https://github.com/sindresorhus/ora)|在cli中展示loading动画|`cli`/`spinner`/`loading`|
