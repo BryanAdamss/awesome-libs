@@ -5,6 +5,9 @@
 
 | 库名                                                                                 | 描述                                                                              | 标签                                |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------- |
+|[progress](https://www.npmjs.com/package/progress)|cli中展示进度条|`cli`/`progress`|
+|[cli-table](https://github.com/Automattic/cli-table)|cli中展示漂亮的表格|`cli`/`table`|
+|[ora](https://github.com/sindresorhus/ora)|在cli中展示loading动画|`cli`/`spinner`/`loading`|
 |[tracekit](https://github.com/csnover/TraceKit)|跨浏览器错误栈解析工具|`error`/`track`/`错误追踪`/`错误栈解析`|
 |[vue-flow](https://github.com/bcakmakoglu/vue-flow)|一个可定制的vue3流程绘制组件|`flow-chart`/`vue3`|
 |[changesets](https://github.com/changesets/changesets)|`monorepo`仓库version、CHANGELOG管理工具|`version`/`publish`/`changelog`|
