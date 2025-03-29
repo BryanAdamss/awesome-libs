@@ -35,6 +35,7 @@
 | [file-save](https://www.npmjs.com/package/file-save)                                 | 文件读写                                                                          | `read_write`/`file`/`node`          |
 | [rimraf](https://www.npmjs.com/package/rimraf)                                       | 跨平台删除命令                                                                    | `remove`/`file`/`node`              |
 | [copy](https://www.npmjs.com/package/copy)                                           | 文件拷贝                                                                          | `copy`/`file`/`node`                |
+| [cpy-cli]([https://www.npmjs.com/package/copy](https://www.npmjs.com/package/cpy-cli))                                           | 文件拷贝                                                                          | `copy-cli`/`node`                |
 | [mdx](https://github.com/mdx-js/mdx)                                                 | `mdx` 解析                                                                        | `mdx`/`node`                        |
 | [jsdoc-to-markdown](https://www.npmjs.com/package/jsdoc-to-markdown)                 | `jsdoc` 转 `md`                                                                   | `jsdoc`/`md`/`node`                 |
 | [marked](https://www.npmjs.com/package/marked)                                       | `md` 解析                                                                         | `md`/`node`                         |
