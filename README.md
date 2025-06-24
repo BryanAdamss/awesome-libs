@@ -5,6 +5,7 @@
 
 | 库名                                                                                 | 描述                                                                              | 标签                                |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------- |
+|[stricli](https://github.com/bloomberg/stricli)|Stricli 是一个轻量级、零依赖的框架，用于在 TypeScript 中构建复杂且功能丰富的命令行接口（CLI）。由 Bloomberg 开发，它旨在为开发者提供标准化的 CLI 开发体验，尤其适合需要类型安全和高效开发的大型组织。|`cli`|
 |[shelljs](https://www.npmjs.com/package/shelljs)|一个 Unix shell 命令的包装器，以类似于 Shell 脚本的方式执行命令。它提供了简单的接口来执行命令、获取输出和处理错误。|`cli`/`shell`|
 |[progress](https://www.npmjs.com/package/progress)|cli中展示进度条|`cli`/`progress`|
 |[cli-table](https://github.com/Automattic/cli-table)|cli中展示漂亮的表格|`cli`/`table`|
