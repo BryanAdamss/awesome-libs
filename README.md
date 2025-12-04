@@ -55,3 +55,4 @@
 | [XMLSerializer](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLSerializer)      | `html` 序列化，浏览器原生支持                                                     | `serialize`/`browser`               |
 | [parse5](https://www.npmjs.com/package/parse5)                                       | `html` 序列化+反序列化                                                            | `serialize`/`deserialize`/`browser` |
 | [rushstack](https://github.com/microsoft/rushstack)                                  | 系统、全面、规范的 `monorepo` 全套方案，微软背书                                  | `monorepo`/`node`                   |
+| [tinybench](https://github.com/tinylibs/tinybench)                                  | 轻量化的benchmark框架                                  | `benchmark`                   |
